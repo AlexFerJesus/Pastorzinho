@@ -5,7 +5,6 @@ Console.Write("ré, "); Console.Beep(1485, 200);
 Console.Write("mi, "); Console.Beep(1650, 200);
 Console.Write("sol, "); Console.Beep(1980, 200);
 Console.Write("mi, "); Console.Beep(1650, 200);
-Thread.Sleep(250);
 Console.Write("si, "); Console.Beep(2310, 400);
 Console.Write("si, "); Console.Beep(2310, 400);
 Console.Write("lá, "); Console.Beep(2145, 400);
